@@ -1,6 +1,6 @@
 ---
 name: Request new model
-about: Requesting something
+about: Requesting something new
 
 ---
 
