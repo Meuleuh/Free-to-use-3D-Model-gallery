@@ -3,7 +3,7 @@ This GitHub is a little galery / blender models warehouse where I store blender 
 
 I recommend you to go on the wiki if you want both the preview and the blender files close to each other and also if you're not sure of what you want *they will be filtered by category*
 
-If you want to do a request for an item, ask them in the issues tab! Most of the time, I don't know what to modelize so your ideas are welcome!
+If you want to do a request for an item, ask it in the issues tab! Most of the time, I don't know what to modelize so your ideas are welcome! If your object has no name or you simply don't know what is the name of it, you can simply send me pictures of it!
 
 It is still possible that I will import other pictures without blender files because they will be part of works *like as a request from a company* but there will be enough point of view so that you can make the model by yourself!
 
